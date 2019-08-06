@@ -3,7 +3,9 @@
 
 Nauz File Detector is a portable linker/compiler/packer identifier utility.
 
-![alt text](https://github.com/horsicq/Nauz-File-Detector/blob/master/screenshot_gui.jpg "Screenshot gui")
-![alt text](https://github.com/horsicq/Nauz-File-Detector/blob/master/screenshot_console.jpg "Screenshot console")
+Nauz文件检测器（NFD）是一种可移植的链接器/编译器/打包器标识符实用程序。
+
+![alt text](https://github.com/jha334201553/Nauz-File-Detector/raw/master/screenshot_gui.jpg "Screenshot gui")
+![alt text](https://github.com/jha334201553/Nauz-File-Detector/raw/master/screenshot_console.jpg "Screenshot console")
 
 More info: http://n10info.blogspot.com/2018/12/nauz-file-detector.html
